@@ -25,9 +25,9 @@ AQI-Prediction/
 ┣━ models
 ┃	┗━ model.pkl # Trained ML model
 ┃
-┣━ requirements.txt				# Python dependencies
-┗━ README.md
-```					# Project Overview, setup, and usage
+┣━ requirements.txt	# Python dependencies
+┗━ README.md # Project Overview, setup, and usage
+```
 
 ---
 
