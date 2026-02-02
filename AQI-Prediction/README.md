@@ -7,6 +7,7 @@ The goal is to build a regression model that can estimate AQI values from featur
 ---
 
 ## 📂 Project Structure 
+```
 AQI-Prediction/
 ┃
 ┣━ data/
@@ -25,7 +26,8 @@ AQI-Prediction/
 ┃	┗━ model.pkl # Trained ML model
 ┃
 ┣━ requirements.txt				# Python dependencies
-┗━ README.md					# Project Overview, setup, and usage
+┗━ README.md
+```					# Project Overview, setup, and usage
 
 ---
 
