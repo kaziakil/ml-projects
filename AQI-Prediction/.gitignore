@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model artifacts (large binary files)
+models/*.pkl
+
+# Data — raw and processed (too large for git)
+data/raw/*.csv
+data/raw/*.xlsx
+data/processed/*.csv
+
+# Results — regenerated on each training run
+results/*.png
+results/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
